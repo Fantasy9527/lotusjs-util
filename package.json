@@ -1,6 +1,6 @@
 {
-  "name": "lotus-util",
-  "version": "1.0.0",
+  "name": "lotusjs-util",
+  "version": "1.0.7",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.3.2",
+    "lodash": "^4.17.5",
     "moment": "^2.22.0",
     "shelljs": "^0.8.1"
   }
